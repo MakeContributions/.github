@@ -1,5 +1,16 @@
 ## Hi there 👋, we are Make Contributions
 
+<!--
+
+**Here are some ideas to get you started:**
+
+🙋‍♀️ A short introduction - what is your organization all about?
+🌈 Contribution guidelines - how can the community get involved?
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+🍿 Fun facts - what does your team eat for breakfast?
+🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
+-->
+
 We are an organization that wants to encourage Github newbies to come and participate in open source projects and contribute more to Github (well, the clue is in the name 😉).
 
 ### There's plenty you can in this organization, check out some of our repositories below:
